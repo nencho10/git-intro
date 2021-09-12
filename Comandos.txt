@@ -1,0 +1,31 @@
+https://github.com/
+
+usuario: nencho10
+pass: angelfire25*
+e-mail: nelson.andres.74@gmail.com
+
+
+incializacion de repositiorio
+
+git config --global user.name “Nelson Suarez”
+
+git config --global user.email “nelson.andres.74@gmail.com”
+
+git config --list
+
+
+inicia el directorio actual
+git init
+
+git status
+
+git add nombre archivo.xx
+
+git add --a  adiciona varios archivos
+
+git push  empuja o sube la info a la nube
+git fetch baja la informacion de la nube
+
+fundamentos de GIT
+https://bluuweb.github.io/tutorial-github/guia/fundamentos.html
+
